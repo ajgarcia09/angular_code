@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "hello-world"
+  "defaultProject": "hello-world",
+  "cli": {
+    "analytics": "89037641-abde-4f76-b113-5b6fba3cec16"
+  }
 }
